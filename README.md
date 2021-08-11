@@ -16,9 +16,6 @@ Frontend is a full-featured multi-user _chat app_ bootstrapped with react-create
 
 **NOTE**: I can't guarantee you will not be blocked by using this method, although it has worked for me. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
 
-## Motivation
-
-I'm a SysAdmin, and in my daily work, I do a lot of support through WhatsApp. Since WhatsApp Web doesn't allow multiple users, and 90% of our tickets comes from this channel, we created this to share same whatsapp account cross our team.
 
 ## How it works?
 
